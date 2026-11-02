@@ -50,8 +50,8 @@ The rest of the data is random. Some self-approvals and some activity after term
 |---|---|---|---|
 | Self-approval | 103 | 2,535,249.15 | 2.05 |
 | Created after termination | 386 | 9,900,796.14 | 7.70 |
-| Approved after termination | 380 | 9636746.21 | 7.58 |
-| Possible duplicates (excess rows) | 10 | 297305.31 | 0.20 |
+| Approved after termination | 380 | 9,636,746.21 | 7.58 |
+| Possible duplicates (excess rows) | 10 | 297,305.31 | 0.20 |
 | Round-number payments | 5 | 47,500.00 | 0.10 |
 
 _Counts and amounts come from my own run. If you rebuild on a different PostgreSQL major version, random values can differ slightly._
