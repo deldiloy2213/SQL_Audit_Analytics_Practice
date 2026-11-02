@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQL Audit Analytics Practice
 
 A self-directed project to practice testing payment controls with SQL. It uses a small PostgreSQL database of **synthetic** data (employees, vendors, payments) with a few anomalies planted deliberately, so the expected findings are known in advance.
@@ -73,3 +74,7 @@ An exception is a lead, not a conclusion. Each test would need follow-up before 
 - The tests cover the full population. There is no sampling methodology.
 - `terminated_date` is treated as authoritative. There is no rehire history.
 - The data ends in late September, so the third quarter is partial.
+=======
+# sql-audit-analytics-practice
+SQL tests for common payment controls on synthetic PostgreSQL data.
+>>>>>>> d402da66f286e32f616d902d49737eaf0c9338d8
